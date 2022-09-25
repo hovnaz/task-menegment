@@ -1,5 +1,6 @@
 package com.example.taskmenegment.entity;
 
+import com.example.taskmenegment.model.Role;
 import lombok.*;
 
 

@@ -1,4 +1,4 @@
-package com.example.taskmenegment.entity;
+package com.example.taskmenegment.model;
 
 public enum Role {
     USER,
